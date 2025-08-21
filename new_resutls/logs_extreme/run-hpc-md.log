@@ -1,0 +1,20 @@
+== Phase 1 ==
+[metrics] name=MD elapsed_s=1.0 alloc_bytes=16642998272 VmRSS_kib=16256256
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=7.8 alloc_bytes=16642998272 VmRSS_kib=16256768
+MEM: abs=16642998272 bytes
+== Phase 2 ==
+CPU: threads=12 util=0.7 duration=416.0s
+[metrics] name=MD elapsed_s=8.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=9.1 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=10.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=11.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=12.1 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=13.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=14.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=15.0 alloc_bytes=16642998272 VmRSS_kib=16256768
+[metrics] name=MD elapsed_s=16.0 alloc_bytes=16642998272 VmRSS_kib=16256768

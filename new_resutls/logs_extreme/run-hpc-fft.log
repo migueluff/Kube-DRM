@@ -1,0 +1,4 @@
+== Phase 1 ==
+MEM: abs=8589934592 bytes
+== Phase 2 ==
+[metrics] name=FFT elapsed_s=1.0 alloc_bytes=8589934592 VmRSS_kib=8396288
